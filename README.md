@@ -12,33 +12,13 @@ I enjoy building clean, semantic, SEO-friendly projects and automating processes
 
 ## 📬 Contact Me
 
-<table border="0" cellspacing="0" cellpadding="6">
-  <tr>
-    <td style="border:none;">
-      <a href="tel:+5577999529094">
-        <img src="assets/phone-button.svg" style="display:block;" />
-      </a>
-    </td>
+<p align="left">
+  <a href="https://seu-usuario.github.io/portfolio"><img src="assets/portfolio-button.svg" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/seu-link"><img src="assets/linkedin-button.svg" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/seu-instagram"><img src="assets/instagram-button.svg" /></a>&nbsp;&nbsp;
+  <a href="mailto:seuemail@gmail.com"><img src="assets/email-button.svg" /></a>
+</p>
 
-    <td style="border:none;">
-      <a href="https://www.linkedin.com/in/seu-link">
-        <img src="assets/linkedin-button.svg" style="display:block;" />
-      </a>
-    </td>
-
-    <td style="border:none;">
-      <a href="https://www.instagram.com/seu-instagram">
-        <img src="assets/instagram-button.svg" style="display:block;" />
-      </a>
-    </td>
-
-    <td style="border:none;">
-      <a href="mailto:seuemail@gmail.com">
-        <img src="assets/email-button.svg" style="display:block;" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ---
 
