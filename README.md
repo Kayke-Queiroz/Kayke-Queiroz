@@ -9,7 +9,7 @@ I'm focused on **Front-end development** and **AI & automation solutions**, espe
 I enjoy building clean, semantic, SEO-friendly projects and automating processes to solve real problems.
 
 <p align="left">
-  <a href="https://seu-usuario.github.io/portfolio"><img src="assets/portfolio-button.svg" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://seu-usuario.github.io/portfolio"><img src="assets/portfolio-button2.svg" alt="Portfolio" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/seu-link"><img src="assets/linkedin-button.svg" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/seu-instagram"><img src="assets/instagram-button.svg" alt="Instagram" /></a>
 </p>
