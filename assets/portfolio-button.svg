@@ -1,0 +1,11 @@
+<svg width="170" height="44" viewBox="0 0 170 44" xmlns="http://www.w3.org/2000/svg">
+  <rect width="170" height="44" rx="10" fill="#0f172a"/>
+  <text x="85" y="28"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="15"
+        fill="white"
+        font-weight="600">
+    Portfolio
+  </text>
+</svg>
