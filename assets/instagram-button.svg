@@ -1,0 +1,22 @@
+<svg width="170" height="44" viewBox="0 0 170 44" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="instaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F58529"/>
+      <stop offset="30%" stop-color="#DD2A7B"/>
+      <stop offset="60%" stop-color="#8134AF"/>
+      <stop offset="100%" stop-color="#515BD4"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="170" height="44" rx="10" fill="url(#instaGradient)"/>
+
+  <text x="85" y="28"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="15"
+        fill="white"
+        font-weight="600">
+    Instagram
+  </text>
+</svg>
+
