@@ -32,12 +32,12 @@ I enjoy building clean, semantic, SEO-friendly projects and automating processes
 
 ---
 
-## 🧠 Languages
 
 ## 🧠 Languages
 
 <p align="left">
   <img src="tech/html.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tech/css.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="tech/cplusplus.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="tech/js.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="tech/react.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -50,11 +50,12 @@ I enjoy building clean, semantic, SEO-friendly projects and automating processes
 ## 🛠️ Tools
 
 <p align="left">
-  <img src="tech/tool-git.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech/tool-github.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech/tool-vscode.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech/tool-postman.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech/tool-n8n.svg" height="40" />
+  <img src="tech/git.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tech/docker.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tech/vscode.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tech/figma.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tech/n8n.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tech/wordpress.svg" height="40" />
 </p>
 
 
