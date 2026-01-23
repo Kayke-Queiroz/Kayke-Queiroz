@@ -1,0 +1,19 @@
+<svg width="180" height="46" viewBox="0 0 180 46" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="greenEmail" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14532d"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="180" height="46" rx="12" fill="url(#greenEmail)"/>
+
+  <text x="90" y="30"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="15"
+        fill="white"
+        font-weight="600">
+    Email
+  </text>
+</svg>
