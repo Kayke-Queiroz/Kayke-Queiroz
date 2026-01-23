@@ -51,10 +51,10 @@ I enjoy building clean, semantic, SEO-friendly projects and automating processes
 
 <p align="left">
   <img src="tech/git.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech/docker.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tech/docker.svg" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="tech/vscode.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="tech/figma.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech/n8n.svg" height="80" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tech/n8n.svg" height="60" width="60" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="tech/wordpress.svg" height="40" />
 </p>
 
