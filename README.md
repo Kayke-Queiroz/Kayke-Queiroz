@@ -10,19 +10,33 @@ I enjoy building clean, semantic, SEO-friendly projects and automating processes
 
 ---
 
-## 📬 **Where to contact me**
-
+## 📬 Contact Me
 
 <p align="left">
-  <a href="https://seu-usuario.github.io/portfolio"><img src="assets/portfolio-button2.svg" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/seu-link"><img src="assets/linkedin-button.svg" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/seu-instagram"><img src="assets/instagram-button.svg" /></a>&nbsp;&nbsp;
-  <a href="mailto:seuemail@gmail.com"><img src="assets/email-button.svg" /></a>
+  <a href="https://www.linkedin.com/in/seu-link">
+    <img src="assets/linkedin-button.svg" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/seu-instagram">
+    <img src="assets/instagram-button.svg" />
+  </a>&nbsp;&nbsp;
+
+  <a href="mailto:seuemail@gmail.com">
+    <img src="assets/email-button.svg" />
+  </a>&nbsp;&nbsp;
+
+  <a href="tel:+5561999999999">
+    <img src="assets/phone-button.svg" />
+  </a>
 </p>
 
+---
 
+## 🚀 Projects
 
-
-
-
+<p align="left">
+  <a href="https://seu-usuario.github.io/portfolio">
+    <img src="assets/portfolio-button2.svg" />
+  </a>
+</p>
 
