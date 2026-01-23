@@ -8,7 +8,9 @@ I'm currently studying **Software Engineering** at **IDP (Instituto de Desenvolv
 I'm focused on **Front-end development** and **AI & automation solutions**, especially workflow automation using tools like **n8n**.  
 I enjoy building clean, semantic, SEO-friendly projects and automating processes to solve real problems.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)](https://seu-usuario.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-0f172a?style=flat&logo=vercel&logoColor=white)](https://seu-usuario.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-link)
+
+
 
 
