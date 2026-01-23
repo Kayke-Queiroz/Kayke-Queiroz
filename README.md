@@ -13,19 +13,23 @@ I enjoy building clean, semantic, SEO-friendly projects and automating processes
 ## 📬 Contact Me
 
 <p align="left">
-  <a href="tel:+5577999529094">
+  <a href="tel:+5577999529094" style="text-decoration:none;">
     <img src="assets/phone-button.svg" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/seu-link">
+
+  <a href="https://www.linkedin.com/in/seu-link" style="text-decoration:none;">
     <img src="assets/linkedin-button.svg" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/seu-instagram">
+
+  <a href="https://www.instagram.com/seu-instagram" style="text-decoration:none;">
     <img src="assets/instagram-button.svg" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:seuemail@gmail.com">
+
+  <a href="mailto:seuemail@gmail.com" style="text-decoration:none;">
     <img src="assets/email-button.svg" />
   </a>
 </p>
+
 
 
 ---
