@@ -27,7 +27,7 @@ I enjoy building clean, semantic, SEO-friendly projects and automating processes
 
   <a href="mailto:seuemail@gmail.com" style="text-decoration:none;">
     <img src="assets/email-button.svg" />
-  </a>
+  </a>&nbsp;&nbsp;
 </p>
 
 
