@@ -62,4 +62,7 @@ I enjoy building clean, semantic, SEO-friendly projects and automating processes
 
 </p>
 
+<img src="https://media.tenor.com/JowhCmKT628AAAAj/oacmn.gif" width="120" />
+
+
 
