@@ -23,11 +23,11 @@ I enjoy building clean, semantic, SEO-friendly projects and automating processes
 
   <a href="https://www.instagram.com/seu-instagram" style="text-decoration:none;">
     <img src="assets/instagram-button.svg" />
-  </a>&nbsp;&nbsp;
+  </a>
 
   <a href="mailto:seuemail@gmail.com" style="text-decoration:none;">
     <img src="assets/email-button.svg" />
-  </a>&nbsp;&nbsp;
+  </a>
 </p>
 
 
