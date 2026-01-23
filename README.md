@@ -38,9 +38,9 @@ I enjoy building clean, semantic, SEO-friendly projects and automating processes
 <p align="left">
   <img src="tech/html.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="tech/css.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech/cplusplus.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="tech/js.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="tech/react.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tech/cplusplus.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="tech/java.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="tech/python.svg" height="40" />
 </p>
@@ -51,6 +51,7 @@ I enjoy building clean, semantic, SEO-friendly projects and automating processes
 
 <p align="left">
   <img src="tech/git.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="tech/github.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="tech/docker.svg" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="tech/vscode.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="tech/figma.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
