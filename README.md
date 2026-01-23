@@ -9,10 +9,18 @@ I'm focused on **Front-end development** and **AI & automation solutions**, espe
 I enjoy building clean, semantic, SEO-friendly projects and automating processes to solve real problems.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/seu-link" target="_blank">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-blue?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/seu-link" target="_blank" style="text-decoration:none;">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Kayke%20Queiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
   </a>
-  <a href="https://seu-usuario.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/💼%20Portfolio-Visit-black?style=for-the-badge" />
+
+  <a href="https://seu-usuario.github.io/portfolio" target="_blank" style="text-decoration:none;">
+    <img 
+      src="https://img.shields.io/badge/Portfolio-Visit%20Now-111827?style=for-the-badge&logo=vercel&logoColor=white" 
+      alt="Portfolio"
+    />
   </a>
 </p>
+
