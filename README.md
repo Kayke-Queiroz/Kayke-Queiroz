@@ -9,18 +9,41 @@ I'm focused on **Front-end development** and **AI & automation solutions**, espe
 I enjoy building clean, semantic, SEO-friendly projects and automating processes to solve real problems.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/seu-link" target="_blank" style="text-decoration:none;">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-Kayke%20Queiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn"
-    />
+  <a 
+    href="https://www.linkedin.com/in/seu-link"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="
+      display: inline-block;
+      padding: 10px 18px;
+      margin-right: 10px;
+      border-radius: 8px;
+      background: #0A66C2;
+      color: #ffffff;
+      font-weight: 600;
+      text-decoration: none;
+      font-family: Arial, sans-serif;
+    "
+  >
+    💼 LinkedIn
   </a>
 
-  <a href="https://seu-usuario.github.io/portfolio" target="_blank" style="text-decoration:none;">
-    <img 
-      src="https://img.shields.io/badge/Portfolio-Visit%20Now-111827?style=for-the-badge&logo=vercel&logoColor=white" 
-      alt="Portfolio"
-    />
+  <a 
+    href="https://seu-usuario.github.io/portfolio"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="
+      display: inline-block;
+      padding: 10px 18px;
+      border-radius: 8px;
+      background: #111827;
+      color: #ffffff;
+      font-weight: 600;
+      text-decoration: none;
+      font-family: Arial, sans-serif;
+    "
+  >
+    🚀 Portfolio
   </a>
 </p>
 
