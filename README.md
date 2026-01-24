@@ -24,16 +24,19 @@ and automating processes to solve **real-world problems**.
 
 ## 🚀 Projects
 
-<p align="left">
-  <a href="https://seu-usuario.github.io/portfolio">
-    <img src="assets/portfolio-button2.svg" height="40" />
-  </a>
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" valign="middle">
+      <a href="https://seu-usuario.github.io/portfolio">
+        <img src="assets/portfolio-button2.svg" height="40" />
+      </a>
+    </td>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="assets/orange_excited.gif" height="40" />
-</p>
+    <td align="right" valign="middle">
+      <img src="assets/orange_excited.gif" height="40" />
+    </td>
+  </tr>
+</table>
 
 ---
 
