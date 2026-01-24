@@ -28,7 +28,7 @@ and automating processes to solve **real-world problems**.
   <img src="assets/portfolio-button2.svg" height="40">
 </a>
 
-<img src="assets/spacer.svg" width="600" height="1">
+<img src="assets/spacer.svg" width="60" height="1">
 
 <img src="assets/orange_excited.gif" height="40">
 
