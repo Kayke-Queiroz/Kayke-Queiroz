@@ -14,7 +14,7 @@ and I'm an
 </a>
 
 I'm focused on **Front-end development** and **AI & automation solutions**,  
-especially workflow automation using tools like `n8n`.
+especially workflow automation using tools like n8n.
 
 I enjoy building **clean, semantic, SEO-friendly projects**  
 and automating processes to solve **real-world problems**.
