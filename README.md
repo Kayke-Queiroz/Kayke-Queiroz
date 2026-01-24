@@ -66,7 +66,8 @@ and automating processes to solve **real-world problems**.
 
 ## 👾 My Contribution Graph 👾
 
-https://github.com/Kayke-Queiroz/Kayke-Queiroz/blob/main/tech/gameboy2.svg
+<img src="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/main/tech/gameboy2.svg" />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/output/pacman-contribution-graph-dark.svg">
