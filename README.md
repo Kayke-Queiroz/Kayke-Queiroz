@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=&fontSize=90" />
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=36BCF7&center=false&vCenter=true&width=700&lines=Kayke+Queiroz+dos+Santos)
 
