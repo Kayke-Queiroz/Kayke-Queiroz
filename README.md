@@ -6,22 +6,21 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=36BCF7&center=false&vCenter=true&width=700&lines=Kayke+Queiroz+dos+Santos)
 
-Hi! I'm **Kayke Queiroz dos Santos** 👨‍💻  
+Hi, I'm **Kayke Santos**, 22 years old 👨‍💻    
 
-I'm 22 years old and based in Brasília, Brazil.  
-I'm currently studying **Software Engineering (5th semester)** at 
+I'm a **Software Engineering student (5th semester)** at  
 <a href="https://idp.edu.br" target="_blank">
-  <span style="color:#1E90FF; text-decoration:none;"><strong>IDP — Instituto de Desenvolvimento e Pesquisa</strong></span>
-</a> 
-and I'm an 
+  <strong>IDP — Instituto de Desenvolvimento e Pesquisa</strong>
+</a>,  
+and an  
 <a href="https://www.ieee.org" target="_blank">
-  <span style="color:#1E90FF; text-decoration:none;"><strong>IEEE member</strong></span>
-</a>
+  <strong>IEEE member</strong>
+</a> 🇧🇷  
 
-I'm focused on **Front-end development** and **AI & automation solutions**,  
-especially workflow automation using tools like n8n.
+I work with **Front-end development** and **automation solutions**,  
+with a strong focus on **AI-powered workflows** using tools like **n8n**.
 
-I enjoy building **clean, semantic, SEO-friendly projects**  
+I enjoy building **clean, semantic, and SEO-friendly interfaces**  
 and automating processes to solve **real-world problems**.
 
 ---
