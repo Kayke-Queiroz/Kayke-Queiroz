@@ -13,10 +13,11 @@ and I'm an
   <span style="color:#1E90FF; text-decoration:none;"><strong>IEEE member</strong></span>
 </a>
 
-I'm focused on <span style="color:#1E90FF;"><strong>Front-end development</strong></span> and <span style="color:#1E90FF;"><strong>AI & automation solutions</strong></span>
-, especially workflow automation using tools like **n8n**.  
-I enjoy building clean, semantic, SEO-friendly projects and automating processes to solve real-world problems.
+I'm focused on **Front-end development** and **AI & automation solutions**,  
+especially workflow automation using tools like `n8n`.
 
+I enjoy building **clean, semantic, SEO-friendly projects**  
+and automating processes to solve **real-world problems**.
 
 
 ---
