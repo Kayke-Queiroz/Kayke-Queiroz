@@ -8,20 +8,15 @@
 
 Hi, I'm **Kayke Santos**, 22 years old 👨‍💻    
 
-I'm a **Software Engineering student (5th semester)** at  
-<a href="https://idp.edu.br" target="_blank">
-  <strong>IDP — Instituto de Desenvolvimento e Pesquisa</strong>
-</a>,  
-and an  
-<a href="https://www.ieee.org" target="_blank">
-  <strong>IEEE member</strong>
-</a> 🇧🇷  
+Hi, I'm 👨‍💻 Kayke Queiroz dos Santos 🇧🇷
+Software Engineering student (5th semester) at IDP — Instituto de Desenvolvimento e Pesquisa.
+IEEE member.
 
-I work with **Front-end development** and **automation solutions**,  
-with a strong focus on **AI-powered workflows** using tools like **n8n**.
+Focused on Front-end development and AI & automation solutions,
+especially workflow automation and process optimization.
 
-I enjoy building **clean, semantic, and SEO-friendly interfaces**  
-and automating processes to solve **real-world problems**.
+I enjoy building clean, semantic, and SEO-friendly applications,
+always aiming for scalable solutions that solve real-world problems.
 
 ---
 
