@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/main/tech/lightning.svg" />
+</p>
+
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=36BCF7&center=false&vCenter=true&width=700&lines=Kayke+Queiroz+dos+Santos)
 
