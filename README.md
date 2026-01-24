@@ -1,19 +1,5 @@
-## 👨‍💻 <span style="color:#0b2a66; font-weight:700;">
-  <span style="display:inline-block; overflow:hidden; white-space:nowrap; border-right:2px solid #0b2a66; animation: typing 3s steps(28), blink 0.8s step-end infinite;">
-    Kayke Queiroz dos Santos
-  </span>
-</span>
-
-<style>
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
-@keyframes blink {
-  50% { border-color: transparent; }
-}
-</style>
-
+## 👨‍💻 Kayke Queiroz dos Santos
+  
 Hi! I'm **Kayke Queiroz dos Santos** 👨‍💻  
 
 I'm 22 years old and based in Brasília, Brazil.  
