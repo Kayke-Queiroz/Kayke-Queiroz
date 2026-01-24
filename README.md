@@ -6,13 +6,13 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=36BCF7&center=false&vCenter=true&width=700&lines=Kayke+Queiroz+dos+Santos)
 
-Hi, I'm Kayke Queiroz dos Santos 👨‍💻
+Hi, I'm **Kayke Queiroz dos Santos** 👨‍💻
 <br>
 
-Software Engineering student (5th semester) at IDP — Instituto de Desenvolvimento e Pesquisa.
-IEEE member.
+**Software Engineering student** (5th semester) at **IDP** — Instituto de Desenvolvimento e Pesquisa.
+**IEEE member**.
 
-Focused on Front-end development and AI & automation solutions,
+Focused on **Front-end development** and **AI & automation solutions**,
 especially workflow automation and process optimization.
 
 I enjoy building clean, semantic, and SEO-friendly applications,
