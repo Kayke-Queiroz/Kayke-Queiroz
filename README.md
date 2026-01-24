@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&color=0:FF6A00,70:8B2E00,100:000000" />
+
+
+
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=36BCF7&center=false&vCenter=true&width=700&lines=Kayke+Queiroz+dos+Santos)
 
@@ -69,3 +73,6 @@ and automating processes to solve **real-world problems**.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/output/pacman-contribution-graph.svg">
 </picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=true&color=0:FF6A00,70:8B2E00,100:000000" />
+
