@@ -64,14 +64,45 @@ I enjoy building clean, semantic, SEO-friendly projects and automating processes
 
 ## 👾 My Contribution Graph 👾
 
+## 👾 My Contribution Graph 👾
+
 <div align="center">
-  <div style="border: 8px solid #b8b8b8; border-radius: 20px; padding: 5px; display: inline-block; background: #8b9c6a;">
-    <div style="border: 4px solid #333; border-radius: 12px; padding: 3px; background: #1a1a1a;">
-      <div style="border: 2px solid #000; border-radius: 8px; overflow: hidden; background: #0f380f;">
-        <img src="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/output/pacman-contribution-graph.svg" width="700" />
-      </div>
-    </div>
+
+<div style="
+  background: #b8b8b8;
+  border: 4px solid #2f2f2f;
+  border-radius: 18px;
+  padding: 16px;
+  display: inline-block;
+  margin: 0 auto;
+  max-width: 90%;
+">
+  
+  <!-- Linha superior -->
+  <div style="text-align: center; margin-bottom: 10px;">
+    <span style="font-weight: bold; color: #333; font-family: monospace; font-size: 16px;">PAC-MAN</span>
   </div>
-  <br>
-  <span style="font-family: 'Courier New', monospace; font-size: 14px; color: #555;">PAC-MAN EDITION</span>
+  
+  <!-- Tela -->
+  <div style="
+    background: #0f380f;
+    border: 3px solid #000;
+    border-radius: 8px;
+    padding: 8px;
+    margin-bottom: 12px;
+  ">
+    <img
+      alt="pacman contribution graph"
+      src="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/output/pacman-contribution-graph.svg"
+      style="display: block; width: 100%; max-width: 700px; margin: 0 auto;"
+    />
+  </div>
+  
+  <!-- Controles -->
+  <div style="text-align: center; margin-top: 10px;">
+    <span style="font-family: monospace; color: #555; font-size: 14px;">A B START SELECT</span>
+  </div>
+  
+</div>
+
 </div>
