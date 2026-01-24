@@ -64,62 +64,30 @@ I enjoy building clean, semantic, SEO-friendly projects and automating processes
 
 ## 👾 My Contribution Graph 👾
 
-## 👾 My Contribution Graph 👾
 
-<div align="center" style="display: inline-block; background: #b8b8b8; border: 5px solid #2f2f2f; border-radius: 24px; padding: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); max-width: 100%;">
+<div align="center" style="display: inline-block; background: #b8b8b8; border: 4px solid #2f2f2f; border-radius: 18px; padding: 16px; box-shadow: 0 6px 16px rgba(0,0,0,0.3);">
 
-<!-- Topo do Game Boy -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; padding: 0 15px;">
-  <div style="width: 14px; height: 14px; background: #e74c3c; border-radius: 50%; box-shadow: 0 0 8px #e74c3c;"></div>
-  <div style="font-family: 'Courier New', monospace; font-weight: bold; font-size: 20px; color: #2c3e50; text-shadow: 1px 1px 0 rgba(255,255,255,0.5); letter-spacing: 1px;">PAC-MAN</div>
-  <div style="display: flex; gap: 4px;">
-    <div style="width: 6px; height: 6px; background: #333; border-radius: 50%;"></div>
-    <div style="width: 6px; height: 6px; background: #333; border-radius: 50%;"></div>
-    <div style="width: 6px; height: 6px; background: #333; border-radius: 50%;"></div>
-  </div>
+<!-- Topo simples -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+  <div style="width: 12px; height: 12px; background: #e74c3c; border-radius: 50%;"></div>
+  <div style="font-weight: 700; color: #333; font-family: monospace;">PAC-MAN</div>
+  <div style="width: 12px; height: 12px; background: #2ecc71; border-radius: 50%;"></div>
 </div>
 
-<!-- Tela com gráfico -->
-<div style="background: #8b9c6a; border-radius: 16px; padding: 18px; margin-bottom: 20px; box-shadow: inset 0 0 20px rgba(0,0,0,0.4);">
-  <div style="background: #1a1a1a; border: 4px solid #333; border-radius: 10px; padding: 12px; box-shadow: inset 0 0 15px rgba(0,0,0,0.7);">
-    <div style="background: #0f380f; border-radius: 6px; border: 2px solid #000; overflow: hidden;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/output/pacman-contribution-graph-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/output/pacman-contribution-graph.svg">
-        <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/output/pacman-contribution-graph.svg" style="display:block; max-width:100%; height:auto;">
-      </picture>
-    </div>
-  </div>
+<!-- Tela -->
+<div style="background: #0f380f; border: 3px solid #000; border-radius: 8px; padding: 8px; margin-bottom: 12px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/output/pacman-contribution-graph.svg" style="display:block; max-width:100%; height:auto;">
+  </picture>
 </div>
 
-<!-- Controles -->
-<div style="display: flex; justify-content: center; gap: 60px; margin-bottom: 15px;">
-  <!-- D-Pad -->
-  <div style="position: relative; width: 90px; height: 90px;">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 35px; height: 35px; background: #444; border-radius: 50%; box-shadow: inset 0 3px 8px rgba(0,0,0,0.7);"></div>
-    <div style="position: absolute; top: 0; left: 50%; transform: translateX(-50%); width: 32px; height: 40px; background: #333; border-radius: 8px 8px 0 0; box-shadow: inset 0 3px 8px rgba(0,0,0,0.7);"></div>
-    <div style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); width: 32px; height: 40px; background: #333; border-radius: 0 0 8px 8px; box-shadow: inset 0 3px 8px rgba(0,0,0,0.7);"></div>
-    <div style="position: absolute; left: 0; top: 50%; transform: translateY(-50%); width: 40px; height: 32px; background: #333; border-radius: 8px 0 0 8px; box-shadow: inset 0 3px 8px rgba(0,0,0,0.7);"></div>
-    <div style="position: absolute; right: 0; top: 50%; transform: translateY(-50%); width: 40px; height: 32px; background: #333; border-radius: 0 8px 8px 0; box-shadow: inset 0 3px 8px rgba(0,0,0,0.7);"></div>
-  </div>
-  
-  <!-- Botões A/B -->
-  <div style="display: flex; align-items: center; gap: 25px;">
-    <div style="width: 45px; height: 45px; background: radial-gradient(circle at 30% 30%, #3498db, #2980b9); border-radius: 50%; box-shadow: 0 5px 0 rgba(0,0,0,0.3), inset 0 2px 0 rgba(255,255,255,0.3);"></div>
-    <div style="width: 45px; height: 45px; background: radial-gradient(circle at 30% 30%, #e74c3c, #c0392b); border-radius: 50%; box-shadow: 0 5px 0 rgba(0,0,0,0.3), inset 0 2px 0 rgba(255,255,255,0.3);"></div>
-  </div>
+<!-- Controles básicos -->
+<div style="display: flex; justify-content: center; gap: 30px; margin-top: 10px;">
+  <div style="width: 40px; height: 40px; background: #333; border-radius: 50%; box-shadow: inset 0 3px 6px rgba(0,0,0,0.7);"></div>
+  <div style="width: 40px; height: 40px; background: #e74c3c; border-radius: 50%; box-shadow: 0 4px 0 #922b21;"></div>
+  <div style="width: 40px; height: 40px; background: #3498db; border-radius: 50%; box-shadow: 0 4px 0 #1c5d87;"></div>
 </div>
 
-<!-- Start/Select -->
-<div style="display: flex; justify-content: center; gap: 40px;">
-  <div style="width: 65px; height: 20px; background: #444; border-radius: 10px; box-shadow: 0 4px 0 #222, inset 0 2px 0 rgba(255,255,255,0.1);"></div>
-  <div style="width: 65px; height: 20px; background: #444; border-radius: 10px; box-shadow: 0 4px 0 #222, inset 0 2px 0 rgba(255,255,255,0.1);"></div>
 </div>
-
-<!-- Logo Nintendo -->
-<div style="color: rgba(0,0,0,0.4); font-family: monospace; font-size: 14px; letter-spacing: 3px; text-align: center; margin-top: 10px;">NINTENDO</div>
-
-</div>
-
-
-
