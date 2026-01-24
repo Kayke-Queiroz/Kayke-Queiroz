@@ -6,9 +6,9 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=36BCF7&center=false&vCenter=true&width=700&lines=Kayke+Queiroz+dos+Santos)
 
-Hi, I'm **Kayke Santos**, 22 years old 👨‍💻    
+Hi, I'm Kayke Queiroz dos Santos 👨‍💻
+<br>
 
-Hi, I'm 👨‍💻 Kayke Queiroz dos Santos 🇧🇷
 Software Engineering student (5th semester) at IDP — Instituto de Desenvolvimento e Pesquisa.
 IEEE member.
 
