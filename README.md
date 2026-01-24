@@ -5,9 +5,14 @@ Hi! I'm **Kayke Queiroz dos Santos** 👨‍💻
 
 I'm 22 years old and based in Brasília, Brazil.  
 I'm currently studying **Software Engineering (5th semester)** at 
-<a href="https://idp.edu.br" target="_blank" style="color:#1E90FF; text-decoration:none;"><strong>IDP — Instituto de Desenvolvimento e Pesquisa</strong></a> 
+<a href="https://idp.edu.br" target="_blank">
+  <span style="color:#1E90FF; text-decoration:none;"><strong>IDP — Instituto de Desenvolvimento e Pesquisa</strong></span>
+</a> 
 and I'm an 
-<a href="https://www.ieee.org" target="_blank" style="color:#1E90FF; text-decoration:none;"><strong>IEEE member</strong></a>.
+<a href="https://www.ieee.org" target="_blank">
+  <span style="color:#1E90FF; text-decoration:none;"><strong>IEEE member</strong></span>
+</a>.
+
 
 I'm focused on **Front-end development** and **AI & automation solutions**, especially workflow automation using tools like **n8n**.  
 
