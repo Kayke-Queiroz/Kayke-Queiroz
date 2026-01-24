@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#02040a"/>
+      <stop offset="100%" stop-color="#050b18"/>
+    </linearGradient>
+
+    <linearGradient id="bolt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#36BCF7" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#36BCF7" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#36BCF7" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Fundo -->
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <!-- Raios principais -->
+  <g stroke="url(#bolt)" stroke-width="3" filter="url(#glow)" fill="none">
+    <path d="M0 80 L200 60 L380 90 L560 40 L740 70 L920 30 L1200 50"/>
+    <path d="M0 150 L180 130 L360 160 L540 120 L720 150 L900 110 L1200 140"/>
+  </g>
+
+  <!-- Raios secundários -->
+  <g stroke="#36BCF7" stroke-width="1.2" opacity="0.4" fill="none">
+    <path d="M0 100 L300 110 L600 90 L900 120 L1200 100"/>
+    <path d="M0 190 L250 170 L500 200 L800 180 L1200 190"/>
+  </g>
+
+  <!-- Pontos de energia -->
+  <g fill="#36BCF7" opacity="0.8">
+    <circle cx="200" cy="60" r="2"/>
+    <circle cx="380" cy="90" r="2"/>
+    <circle cx="560" cy="40" r="2"/>
+    <circle cx="740" cy="70" r="2"/>
+    <circle cx="920" cy="30" r="2"/>
+  </g>
+
+</svg>
