@@ -1,4 +1,18 @@
-## 👨‍💻 Kayke Queiroz dos Santos
+## 👨‍💻 <span style="color:#0b2a66; font-weight:700;">
+  <span style="display:inline-block; overflow:hidden; white-space:nowrap; border-right:2px solid #0b2a66; animation: typing 3s steps(28), blink 0.8s step-end infinite;">
+    Kayke Queiroz dos Santos
+  </span>
+</span>
+
+<style>
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+@keyframes blink {
+  50% { border-color: transparent; }
+}
+</style>
 
 Hi! I'm **Kayke Queiroz dos Santos** 👨‍💻  
 
@@ -7,18 +21,6 @@ I'm currently studying **Software Engineering (5th semester)** at **IDP (Institu
 
 I'm focused on **Front-end development** and **AI & automation solutions**, especially workflow automation using tools like **n8n**.  
 I enjoy building clean, semantic, SEO-friendly projects and automating processes to solve real problems.
-
----
-
-## 📬 Contact Me
-
-<p align="left">
-  <a href="tel:+5561999999999"><img src="assets/phone-button2.svg" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/seu-link"><img src="assets/linkedin-button.svg" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/seu-instagram"><img src="assets/instagram-button.svg" /></a>&nbsp;&nbsp;
-  <a href="mailto:seuemail@gmail.com"><img src="assets/email-button.svg" /></a>
-</p>
-
 
 ---
 
@@ -64,34 +66,8 @@ I enjoy building clean, semantic, SEO-friendly projects and automating processes
 
 ## 👾 My Contribution Graph 👾
 
-## 👾 My Contribution Graph 👾
-
-<div align="center" style="display: inline-block; position:relative; width:520px; height:430px; border-radius:20px; padding:18px; background:#4f50db; box-shadow:0px -5px 0px #0d0e51, 0px 5px 0px #3d38b5;">
-
-  <!-- Topo simples -->
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
-    <div style="width: 12px; height: 12px; background: #e74c3c; border-radius: 50%;"></div>
-    <div style="font-weight: 700; color: #333; font-family: monospace;">PAC-MAN</div>
-    <div style="width: 12px; height: 12px; background: #2ecc71; border-radius: 50%;"></div>
-  </div>
-
-  <!-- Tela -->
-  <div style="background: #0f380f; border: 3px solid #000; border-radius: 8px; padding: 8px; margin-bottom: 12px; width:360px; height:190px;">
-    <img
-      alt="pacman contribution graph"
-      src="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/output/pacman-contribution-graph.svg"
-      style="display:block; width:100%; height:100%; object-fit:cover;"
-    >
-  </div>
-
-  <!-- Controles básicos -->
-  <div style="display: flex; justify-content: center; gap: 30px; margin-top: 10px;">
-    <div style="width: 40px; height: 40px; background: #333; border-radius: 50%; box-shadow: inset 0 3px 6px rgba(0,0,0,0.7);"></div>
-    <div style="width: 40px; height: 40px; background: #e74c3c; border-radius: 50%; box-shadow: 0 4px 0 #922b21;"></div>
-    <div style="width: 40px; height: 40px; background: #3498db; border-radius: 50%; box-shadow: 0 4px 0 #1c5d87;"></div>
-  </div>
-
-  <!-- rodapé do Game Boy -->
-  <div style="position:absolute; bottom:-34px; left:5px; width:calc(100% - 10px); height:50px; border-radius:50%; background:#4f50db; box-shadow:0px 5px 0px #3d38b5; border-bottom:2px solid #9998eb;"></div>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/output/pacman-contribution-graph.svg">
+</picture>
