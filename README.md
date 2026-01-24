@@ -24,12 +24,14 @@ and automating processes to solve **real-world problems**.
 
 ## 🚀 Projects
 
-<p align="left">
-  <img src="assets/orange_excited.gif" height="40" style="vertical-align: middle;" />
+<p align="left" style="display:flex; align-items:center; justify-content:space-between;">
   <a href="https://seu-usuario.github.io/portfolio">
-    <img src="assets/portfolio-button2.svg" height="40" style="vertical-align: middle; margin-left: 8px;" />
+    <img src="assets/portfolio-button2.svg" height="40" />
   </a>
+
+  <img src="assets/orange_excited.gif" height="40" />
 </p>
+
 
 
 ---
