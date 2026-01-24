@@ -19,13 +19,12 @@ especially workflow automation using tools like n8n.
 I enjoy building **clean, semantic, SEO-friendly projects**  
 and automating processes to solve **real-world problems**.
 
-
 ---
 
 ## 🚀 Projects
 
 <p align="left">
-  <a href="https://seu-usuario.github.io/portfolio"><img src="assets/portfolio-button2.svg" height="40" /></a><img src="assets/spacer.svg" width="650" height="1" /><img src="assets/orange_excited.gif" height="40" />
+  <a href="https://seu-usuario.github.io/portfolio"><img src="assets/portfolio-button2.svg" height="40" /></a><img src="assets/spacer.svg" width="750" height="1" /><img src="assets/orange_excited.gif" height="40" />
 </p>
 
 ---
