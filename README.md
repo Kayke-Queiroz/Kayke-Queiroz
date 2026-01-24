@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/main/tech/lightning.svg" />
+  <img src="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/main/tech/light.svg" />
 </p>
 
 
