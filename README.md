@@ -11,10 +11,10 @@ I'm currently studying **Software Engineering (5th semester)** at
 and I'm an 
 <a href="https://www.ieee.org" target="_blank">
   <span style="color:#1E90FF; text-decoration:none;"><strong>IEEE member</strong></span>
-</a>.
+</a>
 
-I'm focused on **Front-end development** and **AI & automation solutions**, especially workflow automation using tools like **n8n**.  
-
+I'm focused on <span style="color:#1E90FF;"><strong>Front-end development</strong></span> and <span style="color:#1E90FF;"><strong>AI & automation solutions</strong></span>
+, especially workflow automation using tools like **n8n**.  
 I enjoy building clean, semantic, SEO-friendly projects and automating processes to solve real-world problems.
 
 
