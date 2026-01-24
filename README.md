@@ -66,43 +66,32 @@ I enjoy building clean, semantic, SEO-friendly projects and automating processes
 
 ## 👾 My Contribution Graph 👾
 
-<div align="center">
+<div align="center" style="display: inline-block; position:relative; width:520px; height:430px; border-radius:20px; padding:18px; background:#4f50db; box-shadow:0px -5px 0px #0d0e51, 0px 5px 0px #3d38b5;">
 
-<div style="
-  background: #b8b8b8;
-  border: 4px solid #2f2f2f;
-  border-radius: 18px;
-  padding: 16px;
-  display: inline-block;
-  margin: 0 auto;
-  max-width: 90%;
-">
-  
-  <!-- Linha superior -->
-  <div style="text-align: center; margin-bottom: 10px;">
-    <span style="font-weight: bold; color: #333; font-family: monospace; font-size: 16px;">PAC-MAN</span>
+  <!-- Topo simples -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+    <div style="width: 12px; height: 12px; background: #e74c3c; border-radius: 50%;"></div>
+    <div style="font-weight: 700; color: #333; font-family: monospace;">PAC-MAN</div>
+    <div style="width: 12px; height: 12px; background: #2ecc71; border-radius: 50%;"></div>
   </div>
-  
+
   <!-- Tela -->
-  <div style="
-    background: #0f380f;
-    border: 3px solid #000;
-    border-radius: 8px;
-    padding: 8px;
-    margin-bottom: 12px;
-  ">
+  <div style="background: #0f380f; border: 3px solid #000; border-radius: 8px; padding: 8px; margin-bottom: 12px; width:360px; height:190px;">
     <img
       alt="pacman contribution graph"
       src="https://raw.githubusercontent.com/Kayke-Queiroz/Kayke-Queiroz/output/pacman-contribution-graph.svg"
-      style="display: block; width: 100%; max-width: 700px; margin: 0 auto;"
-    />
+      style="display:block; width:100%; height:100%; object-fit:cover;"
+    >
   </div>
-  
-  <!-- Controles -->
-  <div style="text-align: center; margin-top: 10px;">
-    <span style="font-family: monospace; color: #555; font-size: 14px;">A B START SELECT</span>
+
+  <!-- Controles básicos -->
+  <div style="display: flex; justify-content: center; gap: 30px; margin-top: 10px;">
+    <div style="width: 40px; height: 40px; background: #333; border-radius: 50%; box-shadow: inset 0 3px 6px rgba(0,0,0,0.7);"></div>
+    <div style="width: 40px; height: 40px; background: #e74c3c; border-radius: 50%; box-shadow: 0 4px 0 #922b21;"></div>
+    <div style="width: 40px; height: 40px; background: #3498db; border-radius: 50%; box-shadow: 0 4px 0 #1c5d87;"></div>
   </div>
-  
-</div>
+
+  <!-- rodapé do Game Boy -->
+  <div style="position:absolute; bottom:-34px; left:5px; width:calc(100% - 10px); height:50px; border-radius:50%; background:#4f50db; box-shadow:0px 5px 0px #3d38b5; border-bottom:2px solid #9998eb;"></div>
 
 </div>
