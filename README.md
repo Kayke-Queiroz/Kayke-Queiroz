@@ -1,3 +1,6 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=Kayke+Santos;Programador+%F0%9F%92%BB;Criador+de+conte%C3%BAdo+com+IA;Bem-vindo+ao+meu+perfil!)
+
+
 ## 👨‍💻 Kayke Queiroz dos Santos
   
 Hi! I'm **Kayke Queiroz dos Santos** 👨‍💻  
@@ -49,6 +52,8 @@ I enjoy building clean, semantic, SEO-friendly projects and automating processes
 
 
 </p>
+
+---
 
 ## 👾 My Contribution Graph 👾
 
