@@ -23,7 +23,7 @@ always aiming for scalable solutions that solve real-world problems.
 ## 🚀 Projects
 
 <p align="left">
-  <a href="https://seu-usuario.github.io/portfolio"><img src="assets/portfolio-button2.svg" height="40" /></a><img src="assets/spacer.svg" width="630" height="1" /><img src="assets/orange_excited.gif" height="40" />
+  <a href="https://kaykesantos.vercel.app/"><img src="assets/portfolio-button2.svg" height="40" /></a><img src="assets/spacer.svg" width="630" height="1" /><img src="assets/orange_excited.gif" height="40" />
 </p>
 
 ---
