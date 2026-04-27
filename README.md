@@ -47,9 +47,9 @@ always aiming for scalable solutions that solve real-world problems.
 ## ⚛️ Frameworks & Libraries
 
 <p align="left">
-  <img src="tech/react.svg" height="40" />
-  <img src="tech/node.svg" height="40" />
-  <img src="tech/Strapi.svg" height="40" />
+  <img src="tech/react.svg" height="40" />&nbsp;&nbsp;
+  <img src="tech/node.svg" height="40" />&nbsp;&nbsp;
+  <img src="tech/Strapi.svg" height="40" />&nbsp;&nbsp;
   <img src="tech/tailwind.svg" height="40" />
 </p>
 
