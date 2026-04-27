@@ -48,7 +48,9 @@ always aiming for scalable solutions that solve real-world problems.
 
 <p align="left">
   <img src="tech/react.svg" height="40" />
+  <img src="tech/node.svg" height="40" />
   <img src="tech/Strapi.svg" height="40" />
+  <img src="tech/tailwind.svg" height="40" />
 </p>
 
 ---
@@ -68,6 +70,7 @@ always aiming for scalable solutions that solve real-world problems.
   <img src="tech/git.svg" height="40" />&nbsp;&nbsp;
   <img src="tech/github2.svg" height="40" />&nbsp;&nbsp;
   <img src="tech/docker.svg" height="40" />&nbsp;&nbsp;
+  <img src="tech/postman.svg" height="40" />&nbsp;&nbsp;
   <img src="tech/vscode.svg" height="40" />&nbsp;&nbsp;
   <img src="tech/figma.svg" height="40" />&nbsp;&nbsp;
   <img src="tech/firebase.svg" height="40" />&nbsp;&nbsp;
