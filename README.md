@@ -12,7 +12,7 @@ Hi, I'm **Kayke Queiroz dos Santos** 👨‍💻
 **Software Engineering student** (5th semester) at **IDP** — Instituto de Desenvolvimento e Pesquisa.
 **IEEE member**.
 
-Focused on **Front-end development** and **AI & automation solutions**,
+Focused on **Full-Stack Developer** and **AI & automation solutions**,
 especially workflow automation and process optimization.
 
 I enjoy building clean, semantic, and SEO-friendly applications,
