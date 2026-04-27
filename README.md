@@ -66,12 +66,12 @@ always aiming for scalable solutions that solve real-world problems.
 <p align="left">
   <img src="tech/git.svg" height="40" />&nbsp;&nbsp;
   <img src="tech/github2.svg" height="40" />&nbsp;&nbsp;
-  <img src="tech/docker.svg" height="45" />&nbsp;&nbsp;
+  <img src="tech/docker.svg" height="40" />&nbsp;&nbsp;
   <img src="tech/vscode.svg" height="40" />&nbsp;&nbsp;
   <img src="tech/figma.svg" height="40" />&nbsp;&nbsp;
   <img src="tech/firebase.svg" height="40" />&nbsp;&nbsp;
   <img src="tech/wordpress.svg" height="40" />&nbsp;&nbsp;
-  <img src="tech/n8n.svg" height="50" width="50" />
+  <img src="tech/n8n.svg" height="40" />
 </p>
 
 
