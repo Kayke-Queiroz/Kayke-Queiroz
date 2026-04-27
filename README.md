@@ -25,7 +25,7 @@ always aiming for scalable solutions that solve real-world problems.
 <p align="left">
   <a href="https://kaykesantos.vercel.app/"><img src="assets/portfolio-button2.svg" height="40" /></a>&nbsp;
   <a href="https://smart-weather-sigma.vercel.app/"><img src="assets/weather.svg" height="40" /></a>
-  <img src="assets/spacer.svg" width="600" height="1" />
+  <img src="assets/spacer.svg" width="500" height="1" />
   <img src="assets/orange_excited.gif" height="40" />
 </p>
 
