@@ -28,13 +28,13 @@ always aiming for scalable solutions that solve real-world problems.
   </a>
 
 
-  <span style="margin-left: 10px;"></span>
+  <span style="margin-left: 2px;"></span>
 
   <a href="https://smart-weather-sigma.vercel.app/">
     <img src="assets/weather.svg" height="40" />
   </a>
 
-  <img src="assets/spacer.svg" width="630" height="1" />
+  <img src="assets/spacer.svg" width="400" height="1" />
   <img src="assets/orange_excited.gif" height="40" />
 </p>
 
