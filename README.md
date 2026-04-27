@@ -70,7 +70,7 @@ always aiming for scalable solutions that solve real-world problems.
   <img src="tech/figma.svg" height="40" />&nbsp;&nbsp;
   <img src="tech/firebase.svg" height="40" />&nbsp;&nbsp;
   <img src="tech/wordpress.svg" height="40" />&nbsp;&nbsp;
-  <img src="tech/n8n.svg" height="100" />
+  <img src="tech/n8n.svg" height="50" width="50" />
 </p>
 
 
