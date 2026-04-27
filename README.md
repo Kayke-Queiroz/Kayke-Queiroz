@@ -35,28 +35,42 @@ always aiming for scalable solutions that solve real-world problems.
 ## 🧠 Languages
 
 <p align="left">
-  <img src="tech/html.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech/css.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech/js.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech/react.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech/cplusplus.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech/java.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech/python.svg" height="40" />
+  <img src="tech/java.svg" height="40" />&nbsp;&nbsp;
+  <img src="tech/python.svg" height="40" />&nbsp;&nbsp;
+  <img src="tech/cplusplus.svg" height="40" />&nbsp;&nbsp;
+  <img src="tech/js.svg" height="40" />
 </p>
 
 ---
 
-## 🛠️ Tools
+## ⚛️ Frameworks & Libraries
 
 <p align="left">
-  <img src="tech/git.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="tech/github2.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech/docker.svg" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech/vscode.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech/figma.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech/n8n.svg" height="50" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech/firebase.svg" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech/wordpress.svg" height="40" />
+  <img src="tech/react.svg" height="40" />
+</p>
+
+---
+
+## 🌐 Frontend
+
+<p align="left">
+  <img src="tech/html.svg" height="40" />&nbsp;&nbsp;
+  <img src="tech/css.svg" height="40" />
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="tech/git.svg" height="40" />&nbsp;&nbsp;
+  <img src="tech/github2.svg" height="40" />&nbsp;&nbsp;
+  <img src="tech/docker.svg" height="45" />&nbsp;&nbsp;
+  <img src="tech/vscode.svg" height="40" />&nbsp;&nbsp;
+  <img src="tech/figma.svg" height="40" />&nbsp;&nbsp;
+  <img src="tech/firebase.svg" height="40" />&nbsp;&nbsp;
+  <img src="tech/wordpress.svg" height="40" />&nbsp;&nbsp;
+  <img src="tech/n8n.svg" height="45" />
 </p>
 
 
