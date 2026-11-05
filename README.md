@@ -29,19 +29,6 @@ Passionate about automating workflows, optimizing model inference costs, and bui
 
 ---
 
-
-## 🤖 AI & Automation
-
-<p align="left">
-  <img src="tech/langchain.svg" height="40" alt="LangChain" />&nbsp;&nbsp;
-  <img src="tech/claude.svg" height="40" alt="Claude" />&nbsp;&nbsp;
-  <img src="tech/openai.svg" height="40" alt="OpenAI" />&nbsp;&nbsp;
-  <img src="tech/huggingface.svg" height="40" alt="Hugging Face" />&nbsp;&nbsp;
-  <img src="tech/n8n.svg" height="40" alt="n8n" />
-</p>
-
----
-
 ## 🤖 AI Engineering & Agents
 
 <p align="left">
@@ -49,7 +36,7 @@ Passionate about automating workflows, optimizing model inference costs, and bui
   <img src="tech/claude.svg" height="40" alt="Claude" />&nbsp;&nbsp;
   <img src="tech/openai.svg" height="40" alt="OpenAI" />&nbsp;&nbsp;
   <img src="tech/huggingface.svg" height="40" alt="Hugging Face" />&nbsp;&nbsp;
-  <img src="tech/n8n.svg" height="40" alt="n8n" />
+  <img src="tech/n8n.svg" height="80" alt="n8n" />
 </p>
 
 ---
