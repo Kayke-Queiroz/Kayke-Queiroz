@@ -71,7 +71,7 @@ Passionate about automating workflows, optimizing model inference costs, and bui
 ## 🛠️ Tools, Cloud & Databases
 
 <p align="left">
-  <img src="tech/postgres.svg" height="40" alt="PostgreSQL" />&nbsp;&nbsp;
+  <img src="tech/postgre.svg" height="40" alt="PostgreSQL" />&nbsp;&nbsp;
   <img src="tech/docker.svg" height="40" alt="Docker" />&nbsp;&nbsp;
   <img src="tech/aws.svg" height="40" alt="AWS" />&nbsp;&nbsp;
   <img src="tech/google.svg" height="40" />&nbsp;&nbsp;
