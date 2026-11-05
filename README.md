@@ -9,14 +9,11 @@
 Hi, I'm **Kayke Queiroz dos Santos** 👨‍💻
 <br>
 
-**Software Engineering student** (5th semester) at **IDP** — Instituto de Desenvolvimento e Pesquisa.
-**IEEE member**.
+**Software Engineering student** at **IDP** (Graduation: 2027) • **Google Student Ambassador** • **IEEE Member**
 
-Focused on **Full-Stack Developer** and **AI & automation solutions**,
-especially workflow automation and process optimization.
+Focused on **AI Engineering** and **Full-Stack Development**. I develop AI-powered applications, LLM agents, and robust backend services using Python, TypeScript, and modern orchestration frameworks. 
 
-I enjoy building clean, semantic, and SEO-friendly applications,
-always aiming for scalable solutions that solve real-world problems.
+Passionate about automating workflows, optimizing model inference costs, and building scalable software that solves practical challenges.
 
 ---
 
