@@ -36,7 +36,7 @@ Passionate about automating workflows, optimizing model inference costs, and bui
   <img src="tech/claude.svg" height="40" alt="Claude" />&nbsp;&nbsp;
   <img src="tech/openai.svg" height="40" alt="OpenAI" />&nbsp;&nbsp;
   <img src="tech/huggingface.svg" height="40" alt="Hugging Face" />&nbsp;&nbsp;
-  <img src="tech/n8n.svg" height="80" alt="n8n" />
+  <img src="tech/n8n.svg" height="200" alt="n8n" />
 </p>
 
 ---
