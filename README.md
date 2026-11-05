@@ -79,7 +79,7 @@ Passionate about automating workflows, optimizing model inference costs, and bui
   <img src="tech/git.svg" height="40" alt="Git" />&nbsp;&nbsp;
   <img src="tech/github2.svg" height="40" alt="GitHub" />&nbsp;&nbsp;
   <img src="tech/postman.svg" height="40" alt="Postman" />&nbsp;&nbsp;
-  <img src="tech/vscode.svg" height="40" alt="VS Code" />&nbsp;&nbsp;
+  <img src="tech/anti.svg" height="40" alt="VS Code" />&nbsp;&nbsp;
   <img src="tech/figma.svg" height="40" alt="Figma" />&nbsp;&nbsp;
   <img src="tech/Vercel.svg" height="40" alt="Vercel" />&nbsp;&nbsp;
 </p>
