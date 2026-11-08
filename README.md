@@ -89,19 +89,6 @@ Passionate about automating workflows, optimizing model inference costs, and bui
 
 ---
 
-<!-- SEÇÃO DE MÉTRICAS -->
-<div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Kayke-Queiroz&theme=tokyonight&hide_border=true&background=0d1117&ring=388bfd&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kayke-Queiroz&theme=tokyonight" alt="Perfil e Estatísticas" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kayke-Queiroz&label=VISUALIZAÇÕES+DO+PERFIL&color=1f6feb&style=flat-square" alt="Contador de Visitas" />
-</div>
-<br/>
-
 ## 👾 My Contribution Graph 👾
 
 <picture>
