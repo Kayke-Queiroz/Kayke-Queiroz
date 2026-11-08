@@ -89,15 +89,20 @@ Passionate about automating workflows, optimizing model inference costs, and bui
 
 ---
 
+<!-- SEÇÃO DE MÉTRICAS & ATIVIDADE -->
 <div align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kayke-Queiroz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=388bfd&text_color=c9d1d9&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Kayke-Queiroz&theme=tokyonight&hide_border=true&background=0d1117&ring=388bfd&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <!-- Troféus Dinâmicos de Conquistas do GitHub -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Kayke-Queiroz&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Troféus GitHub" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kayke-Queiroz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Linguagens Mais Utilizadas" />
+  <!-- Streak de Consistência -->
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Kayke-Queiroz&theme=tokyonight&hide_border=true&background=0d1117&ring=388bfd&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  
+  <!-- Gráfico Fluido de Commits Recentes -->
+  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=Kayke-Queiroz&theme=react-dark&bg_color=0d1117&color=58a6ff&line=388bfd&point=58a6ff&area=true&hide_border=true" alt="Histórico de Commits" />
 </div>
 
 ## 👾 My Contribution Graph 👾
