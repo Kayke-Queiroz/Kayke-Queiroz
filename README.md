@@ -24,7 +24,7 @@ Passionate about automating workflows, optimizing model inference costs, and bui
   <a href="https://smart-weather-sigma.vercel.app/"><img src="assets/weather.svg" height="40" /></a>&nbsp;
   <a href="https://carbonet-lrzp.vercel.app/"><img src="assets/carbonet.svg" height="40" /></a>
   <img src="assets/spacer.svg" width="300" height="1" />
-  <img src="assets/orange_excited.gif" width="800" height="1" />
+  <img src="assets/orange_excited.gif" height="50" width="50" />
 </p>
 
 ---
