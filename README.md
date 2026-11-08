@@ -94,6 +94,15 @@ Passionate about automating workflows, optimizing model inference costs, and bui
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Kayke-Queiroz&theme=tokyonight&hide_border=true&background=0d1117&ring=388bfd&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kayke-Queiroz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=388bfd&text_color=c9d1d9&count_private=true" alt="Estatísticas Gerais" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Queiroz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Linguagens Mais Utilizadas" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kayke-Queiroz&theme=tokyonight&hide_border=true&background=0d1117&ring=388bfd&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</div>
+
 ## 👾 My Contribution Graph 👾
 
 <picture>
