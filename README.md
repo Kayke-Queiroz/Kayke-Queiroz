@@ -22,8 +22,7 @@ Passionate about automating workflows, optimizing model inference costs, and bui
 <p align="left">
   <a href="https://kaykesantos.vercel.app/"><img src="assets/portfolio-button2.svg" height="40" /></a>&nbsp;
   <a href="https://smart-weather-sigma.vercel.app/"><img src="assets/weather.svg" height="40" /></a>&nbsp;
-  <a href="https://carbonet-lrzp.vercel.app/"><img src="assets/carbonet.svg" height="40" /></a>
-  <img src="assets/spacer.svg" width="290" height="1" />
+  <img src="assets/spacer.svg" width="310" height="1" />
   <img src="assets/orange_excited.gif" height="50" width="50" />
 </p>
 
